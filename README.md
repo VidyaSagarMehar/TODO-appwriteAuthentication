@@ -13,7 +13,9 @@ This is a todo app build using react and tailwind components and for authenticat
 
 
 ## Screenshots
-
+![Screenshot_20230112_035242](https://user-images.githubusercontent.com/92782806/212046034-0846d301-0e91-469f-b756-7e766daf1882.png)
+![Screenshot_20230112_035717](https://user-images.githubusercontent.com/92782806/212046066-fe9945a1-8aca-4b98-9ef1-c5091f1370a0.png)
+![Screenshot_20230112_035803](https://user-images.githubusercontent.com/92782806/212046094-5ca73e6f-b657-4455-b86e-90b63d651ece.png)
 
 
 ## Feedback
